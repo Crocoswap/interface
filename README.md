@@ -1,4 +1,4 @@
-# Pangolin Interface
+# Crocoswap Interface
 
 An open source interface for Crocoswap -- a community-driven decentralized exchange for Fantom assets with fast settlement, low transaction fees, and a democratic distribution -- powered by Fantom.
 
