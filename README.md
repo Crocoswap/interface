@@ -1,17 +1,16 @@
 # Pangolin Interface
 
-An open source interface for Pangolin -- a community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution -- powered by Avalanche.
+An open source interface for Crocoswap -- a community-driven decentralized exchange for Fantom assets with fast settlement, low transaction fees, and a democratic distribution -- powered by Fantom.
 
-- Website: [pangolin.exchange](https://pangolin.exchange/)
-- Interface: [app.pangolin.exchange](https://app.pangolin.exchange)
-- Telegram: [Pangolin](https://t.me/pangolindex)
-- Discord: [Pangolin](https://discord.com/invite/PARrDYYbfw)
-- Twitter: [@pangolindex](https://twitter.com/pangolindex)
+- Website: [crocoswap.org](https://crocoswap.org/)
+- Telegram: [Crocoswap](https://t.me/Crocoswap)
+- Twitter: [@Crocoswap](https://twitter.com/crocoswap)
+- Medium: [Crocoswap](https://medium.com/@Crocoswap)
 
 
-## Accessing the Pangolin Interface
+## Accessing the Crocoswap Interface
 
-Visit [app.pangolin.exchange](https://app.pangolin.exchange).
+Visit [crocoswap.org](https://crocoswap.org).
 
 ## Development
 
